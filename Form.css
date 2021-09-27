@@ -1,0 +1,43 @@
+#taille{
+    border-color: #CFB53B;
+    font-size: 25px;
+
+}
+#texte{
+    color: azure;
+	font-family:Lucida Console;
+}
+#contact {
+color: azure;
+font-size: 17px;
+font-family: "Lucida Console", "Courier New", monospace;
+
+
+}
+#cv
+{   color: azure;
+	margin:auto;
+
+}
+a:hover
+{
+color:gold;
+}
+
+h1
+{text-align: center;}
+body {
+    margin: 0;
+    }
+header{
+    background-color:#000000;
+    height:50px;
+    text-align:center;
+    }
+footer{
+        background-color:#000000;
+        height:550px;
+        }
+h2{
+font-family:Dopestyle;
+}
